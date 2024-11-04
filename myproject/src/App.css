@@ -1,0 +1,33 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #af4c6a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4578a0;
+}
+
+label {
+  text-align: left;
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+}
